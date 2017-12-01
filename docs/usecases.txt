@@ -1,0 +1,2 @@
+##testers
+1. Execute smoke test on permise and deployinto the cloud 
