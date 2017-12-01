@@ -1,0 +1,3 @@
+1. build this code base from jenkins
+2. deploy the code to tomacat server
+3. use any configaration management tool for acheving this
