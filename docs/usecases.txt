@@ -1,5 +1,6 @@
 ##testers
 1. Execute smoke test on permise and deployinto the cloud 
+2. Execute seliniam aunromates to ci
 =======
 ##devops
 1. build this code base from jenkins
